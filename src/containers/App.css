@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Lemon/Milk';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Lemon/Milk'), url('LemonMilk.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Lemon/Milk';
+        font-weight: 200;
+        color: #0ccac4;
+        font-style: oblique; 
+    }
